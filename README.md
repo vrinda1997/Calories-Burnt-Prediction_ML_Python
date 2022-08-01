@@ -8,7 +8,8 @@ XGBoost is an efficient implementation of gradient boosting that can be used for
     b. Calories.csv  : https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos?select=calories.csv
     
     
-## Libraries to install : Numpy, Pandas, Scikit-Learn, Matlotlib, Seaborn, PyXGBoost
+## Libraries to install 
+Numpy, Pandas, Scikit-Learn, Matlotlib, Seaborn, PyXGBoost
 
 ## Underlying Concept
 •	The Normal Heart Beat Rate : 75/min and Normal Body Temp : 36-37 degree Celsius . On exercising it increase heart beat , hence increased blood flow and increase in blood flow level in blood. 
