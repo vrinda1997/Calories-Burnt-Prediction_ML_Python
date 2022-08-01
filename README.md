@@ -3,21 +3,21 @@ This project helps to predict how many calories you would burn during a specific
 
 XGBoost is an efficient implementation of gradient boosting that can be used for regression predictive modeling
 
-# Dataset source : Kaggle - 2 CSV Files : 
+## Dataset source : Kaggle - 2 CSV Files : 
     a. Exercise.csv  : https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos?select=exercise.csv
     b. Calories.csv  : https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos?select=calories.csv
     
     
-# Libraries to install : Numpy, Pandas, Scikit-Learn, Matlotlib, Seaborn, PyXGBoost
+## Libraries to install : Numpy, Pandas, Scikit-Learn, Matlotlib, Seaborn, PyXGBoost
 
-# UNDERLYING CONCEPT
+## UNDERLYING CONCEPT
 •	The Normal Heart Beat Rate : 75/min and Normal Body Temp : 36-37 degree Celsius . On exercising it increase heart beat , hence increased blood flow and increase in blood flow level in blood. 
 •	The remaining energy converted to heat. 
 
-# PLATFORM TO IMPLEMENTATION
+## PLATFORM TO IMPLEMENTATION
 We use Jupyter Notebook to implement this project
 
-# WORKFLOW
+## WORKFLOW
 •	First step : collect data .
 We need data to train the ML model, so that it can find out what is the amount of calories going to burn
 •	Second step: Data Preprocessing – We clean the data before feeding into MLmodel
@@ -39,7 +39,8 @@ We use regressor because this is an example of regression problem
 
 •	Evaluate the model with test data. 
 We use Mean Absolute Error to check the accuracy of our prediction. In our case we got a value 1.48 for MAE which means our prediction is best and XGBoost Regressor is a good ML model
-•	 
+![image](https://user-images.githubusercontent.com/45625862/182100947-5560c745-3826-464a-a7d9-d1c9b26818c5.png)
+
 
 
 
