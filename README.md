@@ -12,10 +12,10 @@ XGBoost is an efficient implementation of gradient boosting that can be used for
 
 # UNDERLYING CONCEPT
 •	The Normal Heart Beat Rate : 75/min and Normal Body Temp : 36-37 degree Celsius . On exercising it increase heart beat , hence increased blood flow and increase in blood flow level in blood. 
-•	The remaining energy converted to heat. To reduce temperature  : our body release sweat
+•	The remaining energy converted to heat. 
 
 # PLATFORM TO IMPLEMENTATION
-We use Jupyter Notebook to implement this project(The associated code is added at the end of document)
+We use Jupyter Notebook to implement this project
 
 # WORKFLOW
 •	First step : collect data .
