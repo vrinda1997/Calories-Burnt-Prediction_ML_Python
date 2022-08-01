@@ -10,14 +10,14 @@ XGBoost is an efficient implementation of gradient boosting that can be used for
     
 ## Libraries to install : Numpy, Pandas, Scikit-Learn, Matlotlib, Seaborn, PyXGBoost
 
-## UNDERLYING CONCEPT
+## Underlying Concept
 •	The Normal Heart Beat Rate : 75/min and Normal Body Temp : 36-37 degree Celsius . On exercising it increase heart beat , hence increased blood flow and increase in blood flow level in blood. 
 •	The remaining energy converted to heat. 
 
-## PLATFORM TO IMPLEMENTATION
+## Platform to Implementation
 We use Jupyter Notebook to implement this project
 
-## WORKFLOW
+## Workflow
 •	First step : collect data .
 We need data to train the ML model, so that it can find out what is the amount of calories going to burn
 •	Second step: Data Preprocessing – We clean the data before feeding into MLmodel
