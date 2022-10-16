@@ -20,6 +20,7 @@ We use Jupyter Notebook to implement this project
 ## Workflow
 •	First step : collect data .
 We need data to train the ML model, so that it can find out what is the amount of calories going to burn
+
 •	Second step: Data Preprocessing – We clean the data before feeding into MLmodel
 
 •	Third Step : Data Analysis   (understand dataset better , which enable make better predictions)
