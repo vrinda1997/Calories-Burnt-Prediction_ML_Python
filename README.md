@@ -39,7 +39,7 @@ We use regressor because this is an example of regression problem
 
 
 •	Evaluate the model with test data. 
-We use Mean Absolute Error to check the accuracy of our prediction. In our case we got a value 1.48 for MAE which means our prediction is best and XGBoost Regressor is a good ML model
+We use Mean Absolute Error to check the accuracy of our prediction. In our case we got a value 1.48 for MEA which means our prediction is best and XGBoost Regressor is a good ML model
 ![image](https://user-images.githubusercontent.com/45625862/182100947-5560c745-3826-464a-a7d9-d1c9b26818c5.png)
 
 
